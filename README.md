@@ -21,10 +21,10 @@ Pré-requisitos: Java 8
 
 ```bash
 # clonar repositório
-git clone https://github.com/fSantosLima/
+git clone https://github.com/fSantosLima/neogrid-assemblyline
 
 # entrar na pasta do projeto 
-cd
+cd neogrid-assemblyline
 
 # Gerar o executável do projeto 
 mvn clean install
@@ -33,6 +33,8 @@ mvn clean install
 java -jar AssemblyLineNeogrid-1.0-SNAPSHOT.jar input.txt
 
 o resultado será exibido no console
+![assembly-lines](https://github.com/fSantosLima/assetsRepo/blob/6a2ffd80304c5030682be2688490ce1e17385fd0/assembly-lines.PNG)
+
 ```
 
 
