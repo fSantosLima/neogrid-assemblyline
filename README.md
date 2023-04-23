@@ -46,7 +46,7 @@ java -jar AssemblyLineNeogrid-1.0-SNAPSHOT.jar input.txt
 
 # OBS: 
 
-é necessário que o o input.txt esteja no mesmo diretório do arquivo .jar
+é necessário que o input.txt esteja no mesmo diretório do arquivo .jar
 
 # Autor
 
