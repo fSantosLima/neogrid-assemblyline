@@ -31,10 +31,10 @@ cd neogrid-assemblyline
 # gerar o executável do projeto 
 mvn clean install
 
-# entrar na pasta target para obter o jar da aplicação 
+# entrar na pasta target para obter o .jar da aplicação 
 cd target
 
-# mover o arquivo jar para o mesmo diretório do arquivo a ser lido
+# mover o arquivo .jar para o mesmo diretório do arquivo a ser lido
 
 # executar o projeto passando o nome do arquivo como argumento
 java -jar AssemblyLineNeogrid-1.0-SNAPSHOT.jar input.txt
@@ -44,7 +44,9 @@ java -jar AssemblyLineNeogrid-1.0-SNAPSHOT.jar input.txt
 ![assembly-lines](https://github.com/fSantosLima/assetsRepo/blob/main/assembly-lines.PNG)
 
 
-# OBS: é necessário que o o input.txt esteja no mesmo diretório do arquivo .jar
+# OBS: 
+
+é necessário que o o input.txt esteja no mesmo diretório do arquivo .jar
 
 # Autor
 
