@@ -31,11 +31,11 @@ mvn clean install
 
 # executar o projeto passando o nome do arquivo como argumento
 java -jar AssemblyLineNeogrid-1.0-SNAPSHOT.jar input.txt
+```
 
-o resultado será exibido no console
+# O resultado será exibido no console
 ![assembly-lines](https://github.com/fSantosLima/assetsRepo/blob/main/assembly-lines.PNG)
 
-```
 
 
 
