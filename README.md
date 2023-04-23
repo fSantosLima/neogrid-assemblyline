@@ -33,7 +33,7 @@ mvn clean install
 java -jar AssemblyLineNeogrid-1.0-SNAPSHOT.jar input.txt
 
 o resultado será exibido no console
-![assembly-lines](https://github.com/fSantosLima/assetsRepo/blob/6a2ffd80304c5030682be2688490ce1e17385fd0/assembly-lines.PNG)
+![assembly-lines](https://github.com/fSantosLima/assetsRepo/blob/main/assembly-lines.PNG)
 
 ```
 
