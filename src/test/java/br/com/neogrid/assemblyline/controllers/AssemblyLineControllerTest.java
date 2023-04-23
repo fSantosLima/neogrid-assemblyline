@@ -7,7 +7,7 @@ import org.junit.jupiter.api.*;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-
+@TestMethodOrder(MethodOrderer.DisplayName.class)
 class AssemblyLineControllerTest extends AbstractMockAssemblyLinesUnitTestClass {
     private static AssemblyLineController assemblyLineController;
     @BeforeEach

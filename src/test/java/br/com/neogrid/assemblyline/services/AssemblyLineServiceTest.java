@@ -4,13 +4,12 @@ import br.com.neogrid.assemblyline.filereaders.AssemblyLineFileReaderImpl;
 import br.com.neogrid.assemblyline.to.AssemblyLineProcessStepTO;
 import br.com.neogrid.assemblyline.to.AssemblyLineTO;
 import org.assertj.core.api.Assertions;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 
 import java.util.Arrays;
 import java.util.List;
 
+@TestMethodOrder(MethodOrderer.DisplayName.class)
 class AssemblyLineServiceTest {
 
     private static AssemblyLineService assemblyLineService;
