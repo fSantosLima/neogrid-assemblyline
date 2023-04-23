@@ -4,7 +4,9 @@
 
 A aplicação consiste em um input e output de dados. Onde dado um arquivo txt contendo diversas etapas de uma linha de
 montagem, é necessário organizá-las e imprimí-las com as seguintes premissas:
-
+ 
+- A produção tem várias linhas de montagem e cada uma tem os períodos da manhã, almoço e tarde.
+- Cada período tem várias etapas do processo de produção. Exceto o horário de almoço.
 - O período da manhã começa às 9h e deve terminar até as 12h, para o almoço.
 - O período da tarde começa às 13h e deve terminar no horário das atividades de ginástica laboral.
 - As atividades de ginástica laboral não poderão ser iniciadas antes das 16h00 e no máximo às 17h00.
